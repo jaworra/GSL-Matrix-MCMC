@@ -5,3 +5,4 @@
 #exclude everything
 .vscode/*
 .docs/*
+.unotes/*

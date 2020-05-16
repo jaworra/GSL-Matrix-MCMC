@@ -1,4 +1,7 @@
 // File "gsl_test.cpp"
+// ref: https://solarianprogrammer.com/2020/01/26/getting-started-gsl-gnu-scientific-library-windows-macos-linux/
+//    : https://www.gnu.org/software/gsl/doc/html/usage.html
+
 #include <iostream>
 #include <gsl/gsl_linalg.h>
 
